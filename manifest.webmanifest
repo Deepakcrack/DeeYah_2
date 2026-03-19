@@ -1,0 +1,12 @@
+{
+  "name": "REDY4 - Copy4",
+  "short_name": "REDY4 - Copy4",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
